@@ -1,0 +1,17 @@
+{
+  "discounts": [
+    {
+      "numberOfPiecesNeeded": 3,
+      "productCode": "TSHIRT",
+      "discountReceived": 1,
+      "discountType": "bulk"
+},
+    
+    {
+      "numberOfPiecesNeeded": 2,
+      "productCode": "VOUCHER",
+      "discountReceived": 5,
+      "discountType": "oneForFree"
+    },
+  ]
+}
